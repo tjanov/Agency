@@ -13,10 +13,10 @@ $(document).ready(function() {
 		$('body').removeClass('overflow')
 	})
 
-	// $('.stats_comment').slick()
+	$('.stats_comment').slick()
 
 });
 
-// $(window).on('load', function() {
+$(window).on('load', function() {
 
 });
